@@ -24,17 +24,16 @@
 
 ### **Programming & Tools**
 ![Verilog](https://img.shields.io/badge/Verilog-5D87BF?style=for-the-badge&logo=v&logoColor=white)
+![RISC-V](https://img.shields.io/badge/RISC_V-283272?style=for-the-badge&logo=riscv&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### **Hardware & IoT**
-![VLSI](https://img.shields.io/badge/VLSI-Design-blueviolet?style=for-the-badge)
+![VLSI](https://img.shields.io/badge/VLSI_Design-blueviolet?style=for-the-badge)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mosquitto)
-![Proteus](https://img.shields.io/badge/Proteus-Simulation-green?style=for-the-badge)
+![Proteus](https://img.shields.io/badge/Proteus-green?style=for-the-badge)
 
 ---
 
