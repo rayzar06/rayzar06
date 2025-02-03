@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.pixabay.com/video/2024/01/24/198018-906226540_small.mp4" width="300">
+  <img src="https://jumpshare.com/s/TbzWMT4WqeHls0GsNLFw" width="300">
   
   **👋 Hi, I'm Sriram M!**  
   *Electrical Engineer | VLSI Enthusiast*
