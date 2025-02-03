@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://jumpshare.com/s/TbzWMT4WqeHls0GsNLFw" width="300">
+  <img src="https://github.com/rayzar06/files/blob/main/ezgif.com-video-to-gif-converter.gif" width="300">
   
   **👋 Hi, I'm Sriram M!**  
   *Electrical Engineer | VLSI Enthusiast*
@@ -9,10 +9,9 @@
 
 ## 🚀 About Me
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF00&width=435&lines=Building+the+future+with+circuits+and+code!)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF00&width=500&lines=Building+the+future+with+circuits+and+code!)
 
 - **🎓 4th-year EEE Student** at CET, passionate about **VLSI, Embedded Systems, and IoT**.
-- **🔬 Final Year Project**: IoT-enabled Grid Monitoring for EV Chargers (Residential Applications).
 - **🤖 Embedded Systems**: ESP32, Circuit Design, Proteus Simulations.
 - **🎵 Analog Synth Builder**: Created a synthesizer using a **40106 Schmitt Trigger**.
 - **📧 Email**: [sriram.dharan@gmail.com](mailto:sriram.dharan@gmail.com)
