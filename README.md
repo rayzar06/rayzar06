@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF00&width=500&lines=Building+the+future+with+circuits+and+code!)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF00&width=550&lines=Building+the+future+with+circuits+and+code!)
 
 - **🎓 4th-year EEE Student** at CET, passionate about **VLSI, Embedded Systems, and IoT**.
 - **🤖 Embedded Systems**: ESP32, Circuit Design, Proteus Simulations.
