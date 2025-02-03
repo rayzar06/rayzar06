@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Tech Enthusiast" width="300">
   
-  **👋 Hi, I'm Rayzar!**  
-  *Electrical Engineer | Embedded Systems & IoT Developer | VLSI Enthusiast*
+  **👋 Hi, I'm Sriram M!**  
+  *Electrical Engineer | VLSI Enthusiast*
 </div>
 
 ---
@@ -15,8 +15,8 @@
 - **🔬 Final Year Project**: IoT-enabled Grid Monitoring for EV Chargers (Residential Applications).
 - **🤖 Embedded Systems**: ESP32, Circuit Design, Proteus Simulations.
 - **🎵 Analog Synth Builder**: Created a synthesizer using a **40106 Schmitt Trigger**.
-- **📧 Email**: [your.email@example.com](mailto:your.email@example.com)
-- **📄 Resume**: [Download Here](https://drive.google.com/your-resume-link)
+- **📧 Email**: [sriram.dharan@gmail.com](mailto:sriram.dharan@gmail.com)
+- **📄 Resume**: [Download Here](https://drive.google.com/file/d/1vJ_JZnzI9MFXrioLM0ZXNif-twMXLz2m/view?usp=sharing)
 
 ---
 
@@ -34,10 +34,6 @@
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mosquitto)
 ![Proteus](https://img.shields.io/badge/Proteus-Simulation-green?style=for-the-badge)
-
-### **AI/ML**
-![Machine Learning](https://img.shields.io/badge/ML-Algorithms-FF6F00?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-API-000000?style=for-the-badge&logo=flask)
 
 ---
 
@@ -70,9 +66,8 @@
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srirammuralidharan02/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rayzar06)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=wix&logoColor=white)](https://your-portfolio-link)
 
 ---
 
