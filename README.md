@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Tech Enthusiast" width="300">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2hybDdiajdybWZhaHRxeTNuZHAwNXR4MDY4eGxlaXdnbm5qeHFqMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xC8sdW7vmG6bRe/giphy.gif" width="300">
   
   **👋 Hi, I'm Sriram M!**  
   *Electrical Engineer | VLSI Enthusiast*
