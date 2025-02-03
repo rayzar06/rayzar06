@@ -37,13 +37,10 @@ Here are some of the projects I've worked on:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayzar06&layout=compact&theme=radical)
 
-## 🤝 Connect with Me
+## Socials
 
-Let's connect and collaborate! You can find me on:
-
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- [Twitter](https://twitter.com/yourhandle)
-- [Portfolio Website](https://yourwebsite.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rayzar06)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srirammuralidharan02/)
 
 ## 🌟 Support Me
 
