@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://pixabay.com/videos/technology-tech-circles-computer-198018/" width="300">
+  <img src="https://cdn.pixabay.com/video/2024/01/24/198018-906226540_small.mp4" width="300">
   
   **👋 Hi, I'm Sriram M!**  
   *Electrical Engineer | VLSI Enthusiast*
