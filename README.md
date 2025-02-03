@@ -2,7 +2,7 @@
   <img src="https://github.com/rayzar06/files/blob/main/ezgif.com-video-to-gif-converter.gif" width="300">
   
   **👋 Hi, I'm Sriram M!**  
-  *Electrical Engineer | VLSI Enthusiast*
+  *Electrical and Electronics Engineer | VLSI Enthusiast*
 </div>
 
 ---
